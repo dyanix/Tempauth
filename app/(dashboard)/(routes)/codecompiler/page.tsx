@@ -7,6 +7,7 @@ const CodeGeneration = () => {
     <div>
      
       <div className="px-4 lg:px-8">
+        
        
 
       </div>
